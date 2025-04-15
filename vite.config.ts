@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/lexi_p/'
+  base: '/lexi_p/', // This should match your repository name
 });
